@@ -11,13 +11,11 @@ Ticket ID and seat number allocation
 Booking confirmation email notification
 SLA with 1-day goal and 2-day deadline
 Show-type based work queue routing
-Tech Stack
 
-**Pega Platform · Pega App Studio · Pega Dev Studio*
 
-**Case Flow**
+**Tech Stack** : Pega Platform · Pega App Studio · Pega Dev Studio
 
-Initial Request → Availability → Approval → Booking Execution → Resolved
+**Case Flow** : Initial Request → Availability → Approval → Booking Execution → Resolved
 
 Developer: Abhishek Tiwari
 
