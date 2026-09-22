@@ -1,6 +1,6 @@
 **Movie Ticket Management Application**
 
-A Pega Platform application built for the National Internship Program (NIP) 2026 to manage movie ticket booking from request creation to confirmation.
+A Pega Platform application built for the Pega-National Internship Program (NIP) 2026 to manage movie ticket booking from request creation to confirmation.
 
 **Features** : 
 1. Movie ticket request with movie name, show date, show time, and ticket quantity.
